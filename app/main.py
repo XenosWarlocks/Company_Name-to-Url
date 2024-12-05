@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 # Import search strategies
 from selenium_searcher import SeleniumGoogleSearcher
-from api_algo import CompanyURLFinder
+from google_algo import CompanyURLFinder
 
 
 def main():
