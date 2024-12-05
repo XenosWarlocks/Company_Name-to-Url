@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/company-url-finder.git
+   https://github.com/XenosWarlocks/company-url-finder.git
    cd company-url-finder
    ```
 
