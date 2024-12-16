@@ -5,7 +5,7 @@ import random
 import threading
 import concurrent.futures
 import pandas as pd
-timport tldextract
+import tldextract
 import time
 from typing import List, Dict, Optional, Union
 
