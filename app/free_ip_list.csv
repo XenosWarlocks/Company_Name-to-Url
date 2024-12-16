@@ -1,0 +1,101 @@
+ip,anonymityLevel,asn,country,isp,latency,org,port,protocols
+27.72.29.7,elite,AS7552,VN,Viettel Group,201,VIETTEL,5678,socks4
+91.200.114.58,elite,AS48957,UA,"Joint Ukrainian American Enterprise \Telecommunications Resource Center\"" ltd""",39,Integra-Media Ltd,55749,socks4
+217.23.13.32,elite,AS49981,NL,CUSTOMERPANEL,11,N/A,12412,socks4
+162.215.170.113,elite,AS46606,US,Unified Layer,194,Unified Layer,16702,socks4
+31.206.38.49,elite,AS15924,TR,Vodafone Net Iletisim Hizmetler,73,Vodafone Net Iletisim Hizmetler,37630,socks4
+149.20.253.103,elite,AS18615,US,"Mainstream Fiber Networks, LLC",94,"Mainstream Fiber Networks, LLC",12551,socks4
+107.172.78.121,elite,AS36352,US,HostPapa,98,RackNerd LLC,15673,socks5
+103.76.13.142,elite,AS131111,ID,PT Mora Telematika Indonesia,191,Moratelindo,80,socks4
+46.101.195.252,elite,AS14061,DE,"DigitalOcean, LLC",92,Digital Ocean,41842,socks4
+65.49.82.7,elite,N/A,US,Hurricane Electric LLC,181,N/A,55739,socks4
+52.117.160.219,elite,AS36351,US,SoftLayer,197,SoftLayer Technologies Inc,8081,http
+122.248.46.26,elite,AS45325,ID,PT PC24 Cyber Indonesia,216,N/A,4145,socks4
+14.241.203.46,elite,AS45899,VN,VNPT,237,Vietnam Posts and Telecommunications Group,5678,socks4
+188.6.164.138,elite,AS5483,HU,Magyar Telekom,50,N/A,5678,socks4
+121.13.252.60,elite,AS4134,CN,Chinanet,217,Chinanet GD,61401,socks4
+109.224.22.36,elite,AS203214,IQ,Hulum,98,EarthLink Ltd. Communications&,51372,socks4
+203.205.34.58,elite,AS45903,VN,CMC Telecom Infrastructure Company,218,CMC Telecom Infrastructure Company,5678,socks4
+38.133.200.94,elite,AS63383,US,"Single Digits, Inc.",196,Single Digits Inc,31596,socks4
+110.78.149.110,elite,AS131090,TH,CAT-BB,237,N/A,4145,socks4
+177.190.192.57,elite,AS262731,BR,Ctinet Solucoes EM Conectividade E Informatica LTD,205,Ctinet Solucoes EM Conectividade E Informatica LTD,61221,socks4
+46.227.37.73,elite,AS51155,PL,Telemedian - TB Telecom,39,Telemedian,51155,socks4
+82.146.37.145,elite,AS29182,RU,JSC IOT,96,JSC IOT,80,http
+104.16.108.234,elite,AS13335,CA,"Cloudflare, Inc.",2,"Cloudflare, Inc.",80,socks4
+203.30.190.57,elite,AS209242,BZ,"Cloudflare London, LLC",11,Umpire Associates LTD,80,socks4
+166.0.235.104,elite,AS395111,US,Ace Data Centers,104,Ipxo LLC,40184,socks4
+171.241.47.172,elite,AS7552,VN,Viettel Corporation,284,VIETEL,4007,socks4
+203.34.28.148,elite,AS209242,VG,"Cloudflare London, LLC",83,Anaga Consulting Limited,80,socks4
+85.237.51.73,elite,AS12389,RU,PJSC Rostelecom,58,PJSC Rostelecom,4145,socks4
+1.20.95.95,elite,AS23969,TH,TOT Public Company Limited,199,TOT Mobile Co LTD,5678,socks4
+104.18.103.125,elite,AS13335,CA,"Cloudflare, Inc.",2,"Cloudflare, Inc.",80,socks4
+159.192.240.90,elite,AS131090,TH,CAT-BB,227,N/A,4145,socks4
+181.15.154.154,elite,AS7303,AR,Telecom Argentina S.A,251,Municipalidad De Posadas,52033,socks4
+209.13.96.165,elite,AS10834,AR,Telefonica de Argentina,215,Telefonica de Argentina,39921,socks4
+103.130.112.253,elite,AS138336,BD,Potato Internet,195,Sajid Trading Ltd.,5678,socks4
+186.251.255.41,elite,AS267513,BR,Seanet Telecom Carazinho Eireli,193,Seanet Telecom Carazinho Eireli,31337,socks4
+43.153.90.161,elite,AS132203,US,Shenzhen Tencent Computer Systems Company Limited,146,Tencent Cloud Computing,443,socks4
+162.144.32.209,elite,AS46606,US,Unified Layer,195,Unified Layer,28687,socks4
+165.225.61.19,elite,AS22616,US,"ZSCALER, INC.",93,"Zscaler, Inc",10089,socks5
+118.173.197.241,elite,AS23969,TH,TOT Public Company Limited,190,TOT Public Company Limited,4145,socks4
+68.183.232.4,elite,AS14061,SG,"DigitalOcean, LLC",187,"DigitalOcean, LLC",3128,socks5
+162.255.108.5,elite,AS54755,US,Desert Winds Wireless,184,Desert Winds Wireless Inc,5678,socks4
+200.58.74.6,elite,AS27839,BO,Comteco Ltda,188,Comteco Ltda,5678,socks4
+46.219.1.5,elite,AS31148,UA,o3 core,81,N/A,5678,socks4
+188.166.230.38,elite,AS14061,SG,"DigitalOcean, LLC",184,Digitalocean,58031,socks4
+36.110.131.103,elite,AS23724,CN,"IDC, China Telecommunications Corporation",137,Chinanet BJ,80,socks4
+188.165.237.26,elite,AS16276,FR,OVH SAS,6,OVH ISP,52982,socks4
+36.76.224.8,elite,AS7713,ID,PT. TELKOM INDONESIA,201,N/A,8080,socks4
+187.84.191.2,elite,AS262827,BR,Allrede Telecom,219,Operadora Brasileira De Telecomunicacao E Internet,38392,socks5
+95.79.99.159,elite,AS42682,RU,"JSC \ER-Telecom Holding\""""",53,"JSC \ER-Telecom Holding\"" Nizhny Novgorod""",44068,socks4
+180.178.104.109,elite,AS38758,ID,PT Hipernet Indodata,180,N/A,5678,socks4
+213.74.223.72,elite,N/A,TR,Superonline Iletisim Hizmetleri A.S.,47,N/A,4153,socks4
+103.60.137.17,elite,AS134016,IN,Velocity Internet India Private Ltd,162,Velocity Internet India Private Ltd,4153,socks4
+43.153.172.76,elite,AS132203,JP,Shenzhen Tencent Computer Systems Company Limited,292,Tencent Cloud Computing,443,socks5
+176.126.84.126,elite,AS63473,SE,HostHatch,36,HostHatch LLC,22015,socks4
+120.24.194.9,elite,AS37963,CN,"Hangzhou Alibaba Advertising Co., Ltd.",285,Alibaba.com LLC,37963,socks5
+186.211.6.137,elite,AS53156,BR,PortalSAT Telecom,291,eliziane oliveira sobrinho,4145,socks4
+213.197.136.218,elite,AS15440,LT,BALTNET,35,N/A,5678,socks4
+75.119.203.42,elite,AS26347,US,"New Dream Network, LLC",196,"New Dream Network, LLC",15745,socks4
+58.220.69.212,elite,AS137697,CN,"CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.",187,Chinanet JS,26589,socks5
+136.143.144.187,elite,AS13370,US,LocalTel Communications,145,LocalTel Communications,5678,socks4
+109.236.88.88,elite,AS49981,NL,WorldStream B.V.,83,Worldstream,27105,socks4
+194.233.73.107,elite,AS141995,SG,Contabo Asia Private Limited,151,Contabo Asia Private Limited,443,socks4
+188.164.197.178,elite,AS50926,ES,"AXARNET COMUNICACIONES, S.L.",94,"AXARNET COMUNICACIONES, S.L",59378,socks4
+77.235.28.229,elite,AS41750,KG,Mega-Line Ltd.,92,Megaline,4153,socks4
+109.122.88.194,elite,AS8400,RS,VEKTOR,93,N/A,5678,socks4
+186.216.195.29,elite,AS52973,BR,YIPI Telecom LTDA.,198,YIPI Telecom LTDA,4153,socks4
+43.157.50.206,elite,AS132203,DE,Shenzhen Tencent Computer Systems Company Limited,12,Tencent Cloud Computing,443,socks4
+45.226.48.6,elite,AS267015,BR,Esadinet - Empresa De Servicos Adm. De Itubera LTD,214,Esadinet - Empresa De Servicos Adm. De Itubera LTD,4153,socks4
+178.132.4.53,elite,AS49981,NL,WorldStream B.V.,80,Worldstream,443,socks4
+47.57.246.250,elite,AS45102,HK,"Alibaba (US) Technology Co., Ltd.",302,Alibaba.com LLC,53213,socks5
+103.82.22.155,elite,AS135905,VN,INETACADEMY,208,Inet academy joint stock company,55124,socks4
+149.20.253.107,elite,AS18615,US,"Mainstream Fiber Networks, LLC",95,"Mainstream Fiber Networks, LLC",12551,socks4
+103.70.159.142,elite,AS133720,IN,speednet,218,N/A,5678,socks4
+107.172.51.115,elite,AS36352,US,HostPapa,83,RackNerd LLC,3128,socks4
+60.223.244.119,elite,AS4837,CN,China Unicom China169 Network,196,N/A,10800,socks4
+45.33.21.96,elite,AS63949,US,"Akamai Technologies, Inc.",187,Linode,42898,socks4
+115.74.153.98,elite,AS7552,VN,VIETELxdsl,188,xDSL Services,1080,socks4
+101.51.241.126,elite,AS23969,TH,TOT Public Company Limited,284,TOT Public Company Limited,4153,socks4
+177.38.5.87,elite,AS52964,BR,FÁBIO MENDES DIAS LTDA ME,200,FÁBIO MENDES DIAS LTDA ME,4153,socks4
+103.133.222.170,elite,AS137331,ID,PT Cloud Teknologi Nusantara,189,PT Cloud Teknologi Nusantara,443,socks4
+79.101.45.94,elite,AS8400,RS,TELEKOM-SRBIJA,95,N/A,56921,socks4
+49.128.176.50,elite,AS55666,ID,GMEDIA,189,N/A,10800,socks4
+14.52.216.9,elite,AS4766,KR,Korea Telecom,247,Sudogwongangnambonbujang,1081,socks4
+62.152.53.186,elite,AS3175,RU,Citytelecom LLC,98,Filanco,8909,socks4
+41.191.203.89,elite,AS37057,LS,ENTERPRISE,287,N/A,5678,socks4
+131.161.238.14,elite,AS263687,AR,Tucuman BBS S.R.L.,299,Tucuman BBS S.R.L,51327,socks4
+185.171.54.30,elite,AS44285,IR,Shahrad,100,N/A,4153,socks4
+178.18.248.104,elite,AS51167,DE,Contabo GmbH,92,Contabo GmbH,49153,socks4
+172.67.156.214,elite,AS13335,CA,"Cloudflare, Inc.",2,"Cloudflare, Inc.",80,socks4
+181.143.61.124,elite,N/A,CO,EPM Telecomunicaciones S.A. E.S.P.,182,N/A,4153,socks4
+185.161.186.82,elite,AS43618,ES,Inforcelra SLU,64,INFORCELRA SL,54321,socks4
+14.161.17.4,elite,AS45899,VN,VNPT,290,Vietnam Posts and Telecommunications Group,4153,socks4
+103.66.233.177,elite,AS134014,IN,NET 4 U SERVICES,181,N/A,4145,socks4
+173.245.49.65,elite,AS13335,US,"Cloudflare, Inc.",2,"Cloudflare, Inc.",80,socks4
+181.65.121.34,elite,AS6147,PE,TDP-GRS,185,PE-TDP-GRS,8080,socks4
+165.22.209.96,elite,AS14061,IN,"DigitalOcean, LLC",160,"DigitalOcean, LLC",25150,socks5
+114.4.200.222,elite,AS4761,ID,PT. INDOSAT Tbk,186,PT. INDOSAT Tbk,5678,socks4
+103.1.105.10,elite,N/A,MY,TM TECHNOLOGY SERVICES SDN BHD,193,N/A,4153,socks4
+109.166.207.162,elite,AS8953,RO,Orange Romania Network,98,Orange Romania S.A,3629,socks4
+131.0.143.1,elite,AS61885,BR,Mgnetmoc Ltda,214,Mgnetmoc Ltda,4145,socks4
